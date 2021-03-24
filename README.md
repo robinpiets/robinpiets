@@ -1,10 +1,8 @@
-### Robin Piets - Freelance Front-end Developer
+## Welcome to my GitHub page.
 
-I am experienced in creating advanced websites, surveys and dashboards. I have also managed dev-teams at various organisations.
+I am a freelance front-end developer with 10 years of experience in creating websites.
 
-My favourite stack includes JavaScript, TypeScript, React, CSS (SASS / Styled Components), HTML, Git and Scrum.
-
-I work as a freelancer, preferably in the Amsterdam Area.
+My favourite stack includes JavaScript, TypeScript, React, CSS, HTML, Git and Scrum.
 
 LinkedIn: https://www.linkedin.com/in/robinpiets/
 
