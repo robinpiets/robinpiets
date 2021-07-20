@@ -1,8 +1,8 @@
 ## Welcome to my GitHub page.
 
-I am a freelance front-end developer with 10 years of experience in creating websites.
+Robin loves creating awesome web applications while working closely with designers and like-minded engineers. He likes to experiment with UI and he’s eager to learn new techniques. With his excellent eye for detail he always aims to get the best possible product for the end-user.
 
-My favourite stack includes JavaScript, TypeScript, React, CSS, HTML, Git and Scrum.
+Specialization: JavaScript, TypeScript, React, NextJS, CSS (JS in CSS), HTML, Git and Scrum.
 
 LinkedIn: https://www.linkedin.com/in/robinpiets/
 
