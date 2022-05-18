@@ -1,6 +1,6 @@
 ## Welcome to the GitHub page of Robin Piets.
 
-Robin loves creating awesome web applications while working closely with designers and like-minded engineers. He likes to experiment with UI and he’s eager to learn new techniques. With his excellent eye for detail he always aims to get the best possible product for the end-user.
+Robin loves creating awesome web applications while working closely with designers and engineers. He likes to experiment with UI and he’s eager to learn new techniques. With his excellent eye for detail he always aims to get the best possible product for the end-user.
 
 Specialization: JavaScript, TypeScript, React, NextJS, CSS (JS in CSS), HTML, Git and Scrum.
 
